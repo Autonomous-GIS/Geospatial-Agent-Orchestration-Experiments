@@ -24,6 +24,8 @@
 
 </div>
 
+> **Reproducibility:** The per-finding, source-to-output instructions for all manuscript figures, tables, and reported metrics are in [REPRODUCIBILITY.md](REPRODUCIBILITY.md).
+
 
 ## <img src="https://api.iconify.design/lucide:microscope.svg" width="21" height="21" align="center"> Benchmark Overview
 

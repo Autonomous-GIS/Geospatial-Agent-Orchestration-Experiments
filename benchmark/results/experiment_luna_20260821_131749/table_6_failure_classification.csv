@@ -1,0 +1,29 @@
+trajectory_id,primary_failure_mode
+traj_ISS_Q04_C5_run1,Artifact selection artifact-to-input mapping or operational contract failure
+traj_ISS_Q05_C5_run1,Evidence insufficiency or human-escalation failure
+traj_ISS_Q05_C5_run2,Evidence insufficiency or human-escalation failure
+traj_ISS_Q05_C5_run3,Evidence insufficiency or human-escalation failure
+traj_ISS_Q06_C5_run1,Evidence insufficiency or human-escalation failure
+traj_ISS_Q07_C5_run2,Unresolved workflow after structural replanning
+traj_ISS_Q10_C5_run2,Recovery or replanning budget exhaustion
+traj_ISS_Q13_C5_run1,Artifact selection artifact-to-input mapping or operational contract failure
+traj_ISS_Q14_C5_run2,Recovery execution failure
+traj_ISS_Q15_C5_run1,Recovery or replanning budget exhaustion
+traj_ISS_Q15_C5_run2,Recovery or replanning budget exhaustion
+traj_ISS_Q15_C5_run3,Recovery or replanning budget exhaustion
+traj_ISS_Q16_C5_run1,Artifact selection artifact-to-input mapping or operational contract failure
+traj_ISS_Q16_C5_run2,Recovery or replanning budget exhaustion
+traj_ISS_Q16_C5_run3,Artifact selection artifact-to-input mapping or operational contract failure
+traj_ISS_Q17_C5_run3,Recovery or replanning budget exhaustion
+traj_ISS_Q18_C5_run1,Recovery execution failure
+traj_ISS_Q20_C5_run1,Artifact selection artifact-to-input mapping or operational contract failure
+traj_ISS_Q20_C5_run2,Recovery or replanning budget exhaustion
+traj_ISS_Q20_C5_run3,Recovery execution failure
+traj_ISS_Q22_C5_run1,Recovery execution failure
+traj_ISS_Q22_C5_run2,Recovery or replanning budget exhaustion
+traj_ISS_Q22_C5_run3,Recovery or replanning budget exhaustion
+traj_ISS_Q23_C5_run1,Recovery execution failure
+traj_ISS_Q27_C5_run3,Artifact selection artifact-to-input mapping or operational contract failure
+traj_ISS_Q28_C5_run2,Recovery or replanning budget exhaustion
+traj_ISS_Q29_C5_run2,Artifact selection artifact-to-input mapping or operational contract failure
+traj_ISS_Q30_C5_run2,Artifact selection artifact-to-input mapping or operational contract failure

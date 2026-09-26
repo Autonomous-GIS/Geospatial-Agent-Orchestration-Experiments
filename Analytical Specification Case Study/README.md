@@ -8,13 +8,13 @@ The original files outside this repository were not modified.
 
 `Case_B_Fully_Specified` contains the fully specified workflow, its calculated index table, joined county layer, projected GeoPackage, and map. The copied map is byte-identical to Figure 3b.
 
-The workflow identifies two upstream retrieval outputs (`download_the_386195.csv` and `download_the_599189.gpkg`). Those exact files were not found in the candidate source locations, so they are not represented as copied artifacts.
+The workflow includes its two upstream retrieval outputs in `agent_artifacts/data_retrieval/`: `download_the_386195.csv` and `download_the_599189.gpkg`.
 
 ## Case C Indicator Specified
 
 `Case_C_Indicator_Specified` contains the indicator-specified workflow, projected county layer, calculated economic-distress GeoJSON, and map. The copied map is byte-identical to Figure 3c.
 
-The workflow identifies two upstream retrieval outputs (`download_the_622091.csv` and `download_the_968200.gpkg`). Those exact files were not found in the candidate source locations, so they are not represented as copied artifacts.
+The workflow includes its two upstream retrieval outputs in `agent_artifacts/data_retrieval/`: `download_the_622091.csv` and `download_the_968200.gpkg`.
 
 ## Case D Goal Oriented
 
