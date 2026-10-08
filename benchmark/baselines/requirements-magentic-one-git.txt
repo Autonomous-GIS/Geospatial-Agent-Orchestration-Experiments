@@ -1,0 +1,4 @@
+# Microsoft AutoGen source packages, pinned to python-v0.7.5 exact commit.
+# Do not replace this with a moving main/master branch for published experiments.
+autogen-agentchat @ git+https://github.com/microsoft/autogen.git@83afbf5857aac683340d4c692194e548b1e8edda#subdirectory=python/packages/autogen-agentchat
+autogen-ext[openai] @ git+https://github.com/microsoft/autogen.git@83afbf5857aac683340d4c692194e548b1e8edda#subdirectory=python/packages/autogen-ext
